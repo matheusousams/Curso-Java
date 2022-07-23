@@ -1,0 +1,22 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ValorVsReferencia",
+            "request": "launch",
+            "mainClass": "classe.ValorVsReferencia",
+            "projectName": "exercicios2_87d4c1de"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaCircTeste",
+            "request": "launch",
+            "mainClass": "classe.AreaCircTeste",
+            "projectName": "exercicios2_87d4c1de"
+        }
+    ]
+}
