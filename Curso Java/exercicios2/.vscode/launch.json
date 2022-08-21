@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercicio",
+            "request": "launch",
+            "mainClass": "arrays.Exercicio"
+        },
+        {
+            "type": "java",
             "name": "Launch ValorVsReferencia",
             "request": "launch",
             "mainClass": "classe.ValorVsReferencia",
