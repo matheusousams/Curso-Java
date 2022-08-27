@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "arrays.Matriz",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioArray",
+            "request": "launch",
+            "mainClass": "arrays.DesafioArray",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio",
+            "request": "launch",
+            "mainClass": "arrays.Exercicio",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Foreach",
+            "request": "launch",
+            "mainClass": "arrays.Foreach",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaCircTeste",
+            "request": "launch",
+            "mainClass": "classe.AreaCircTeste",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataTeste",
+            "request": "launch",
+            "mainClass": "classe.DataTeste",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroTrauma",
+            "request": "launch",
+            "mainClass": "classe.PrimeiroTrauma",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProdutoTeste",
+            "request": "launch",
+            "mainClass": "classe.ProdutoTeste",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "classe.Teste",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValorNulo",
+            "request": "launch",
+            "mainClass": "classe.ValorNulo",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValorVsReferencia",
+            "request": "launch",
+            "mainClass": "classe.ValorVsReferencia",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jantar",
+            "request": "launch",
+            "mainClass": "classe.desafio.Jantar",
+            "projectName": "Curso Java_bf84468b"
+        }
+    ]
+}
