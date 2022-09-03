@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EqualsHashcode",
+            "request": "launch",
+            "mainClass": "classe.EqualsHashcode",
+            "projectName": "Curso Java_bf84468b"
+        },
+        {
+            "type": "java",
             "name": "Launch Matriz",
             "request": "launch",
             "mainClass": "arrays.Matriz",
